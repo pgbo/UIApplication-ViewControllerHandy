@@ -1,5 +1,5 @@
 # UIApplication-ViewControllerHandy
-Handy methods for UIViewController related  to UIApplication
+Handy methods for UIViewController related to UIApplication
 
 
 ```

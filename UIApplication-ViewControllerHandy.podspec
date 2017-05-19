@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
 
     spec.homepage              = 'https://github.com/pgbo/UIApplication-ViewControllerHandy.git'
     spec.license               = { :type => 'MIT', :file => 'LICENSE' }
-    s.author                   = { "pgbo" => "460667915@qq.com" }
+    spec.author                = { "pgbo" => "460667915@qq.com" }
     spec.platform              = :ios, '7.0'
     spec.source                = { :git => 'https://github.com/pgbo/UIApplication-ViewControllerHandy.git', :tag => spec.version }
     spec.source_files          = 'Classes/*.{h,m}'
